@@ -1,0 +1,7 @@
+{
+  "name": "Cup-On",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

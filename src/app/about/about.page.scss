@@ -1,0 +1,41 @@
+.botones{
+  display: inline-block;
+}
+
+.telefono{
+    text-align: center;
+}
+
+.primero{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+    }
+
+.segundo{
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+  }
+
+.tercero{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.pies{
+    display: inline;
+    padding: 3px;
+    box-shadow: none;
+    
+
+}
+
+#pie{
+    display: flex;
+    justify-content: center;
+}
+.piecito{
+    box-shadow:none;
+}
